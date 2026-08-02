@@ -14,6 +14,16 @@
           "exitmenu": false
         },
         {
+          "name": "TEST screen rotation",
+          "action": "sh /mnt/us/extensions/ssclock/rotatetest.sh",
+          "exitmenu": false
+        },
+        {
+          "name": "TEST software rotation",
+          "action": "sh /mnt/us/extensions/ssclock/swrotatetest.sh",
+          "exitmenu": false
+        },
+        {
           "name": "WARNING: Showing clock will drain your battery",
           "action": "sh /mnt/us/extensions/ssclock/warn.sh",
           "exitmenu": false
